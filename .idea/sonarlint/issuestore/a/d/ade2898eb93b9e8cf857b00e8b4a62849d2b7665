@@ -1,0 +1,15 @@
+
+^
+java:S1192"HDefine a constant instead of duplicating this literal "Pereira" 5 times.(’²‹¦
+j
+java:S1192"TDefine a constant instead of duplicating this literal "Capital de colombia" 5 times.(’²‹¦
+_
+java:S1192"IDefine a constant instead of duplicating this literal "Medellin" 5 times.(’²‹¦
+]
+java:S1192"GDefine a constant instead of duplicating this literal "Bogota" 5 times.(’²‹¦
+[
+java:S1854"@Remove this useless assignment to local variable "preguntasUno".(ÂÅ­âûÿÿÿÿ
+L
+java:S1481"1Remove this unused "preguntasUno" local variable.(ÂÅ­âûÿÿÿÿ
+E
+java:S1068"*Remove this unused "nombre" private field.(µÿï„ùÿÿÿÿ
